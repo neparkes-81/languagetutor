@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The multi-model RAG agent serves as a personal language tutor checking my mistakes and informing of areas I really struggles with. It utilizes 2 helper agents to get the job done. First is the Historian, a context driven RAG agent which utilizes embedding data stored in Chroma DB derived from my past Russian assginments and essays. This agent knows what I historically struggle with and can point out trend or recognize what I need more explination on. The second is the Researcher, an agent equiped to search the web. This one provides useful resources that can further my studies.
+This multi-model RAG agent serves as a personal language tutor checking my mistakes and informing of areas I really struggles with. It utilizes 2 helper agents to get the job done. First is the Historian, a context driven RAG agent which utilizes embedding data stored in Chroma DB derived from my past Russian assginments and essays. This agent knows what I historically struggle with and can point out trend or recognize what I need more explination on. The second is the Researcher, an agent equiped to search the web. This one provides useful resources that can further my studies.
 ---
 
 <!-- ## 🚀 Setup
