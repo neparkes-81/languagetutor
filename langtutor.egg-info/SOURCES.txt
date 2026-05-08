@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+langtutor.egg-info/PKG-INFO
+langtutor.egg-info/SOURCES.txt
+langtutor.egg-info/dependency_links.txt
+langtutor.egg-info/requires.txt
+langtutor.egg-info/top_level.txt
